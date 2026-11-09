@@ -1,0 +1,921 @@
+[
+ {
+  "slug": "gurdwara-janam-asthan",
+  "name": "Gurdwara Janam Asthan",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "Gurdwara Janam Asthan, also known as Gurdwara Nankana Sahib, is a gurdwara, and one of the holiest sites of Sikhism, located in Nankana Sahib, Punjab, Pakistan. It is situated at the site where Guru Nanak, the founder of Sikhism, was born. It is officially listed as a 'Protected Heritage Monument' by the Government of Punjab, Pakistan; and is managed by the Pakistan Sikh Gurdwara Parbandhak Committee under the federal government of Pakistan.",
+  "history": [
+   {
+    "heading": "Location",
+    "text": "The shrine is located in the town of Nankana Sahib, approximately 65 kilometres from Lahore. Nankana Sahib had previously been known as Rāi Bhoi Kī Talvaṇḍī, but was eventually renamed in honour of Guru Nanak."
+   },
+   {
+    "heading": "Significance",
+    "text": "Gurdwara Janam Asthan is believed to be located at the site where Guru Nanak was born to Mehta Kalu and Mata Tripta. The gurdwara forms part of an ensemble of nine important gurdwaras in Nankana Sahib. The shrine is frequently visited by Sikh yatris as part of a pilgrimage route in Pakistan."
+   },
+   {
+    "heading": "History",
+    "text": "The first gurdwara is believed to have been built at the site in the 16th century by the grandson of Guru Nanak, Baba Dharam Chand. The current gurdwara was built by Ranjit Singh in the 19th century. 86 Sikhs were killed during the 20 February 1921 Nankana massacre, which took place after a confrontation between supporters of the gurdwara's manager, Mahant Narayan Das, and members of the reformist Akali movement who accused him of both corruption and sexual impropriety."
+   },
+   {
+    "heading": "Conservation",
+    "text": "The gurdwara complex is listed on the Protected Heritage Monuments of the Archaeology Department of Punjab."
+   }
+  ],
+  "coords": {
+   "lat": 31.4475,
+   "lng": 73.69722222
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-janam-asthan/01.jpg",
+    "w": 1600,
+    "h": 1068,
+    "alt": "This is a photo of a monument in Pakistan identified as the",
+    "author": "Shaguftakarim",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Arched_Corridor_of_Gurdwara_Janam_Asthan,_Nankana.jpg"
+   },
+   {
+    "src": "/places/gurdwara-janam-asthan/02.jpg",
+    "w": 1600,
+    "h": 1068,
+    "alt": "This is a photo of a monument in Pakistan identified as the",
+    "author": "Shaguftakarim",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ariel_View_of_Gurdwara_Janam_Asthan-2.jpg"
+   },
+   {
+    "src": "/places/gurdwara-janam-asthan/03.jpg",
+    "w": 1600,
+    "h": 900,
+    "alt": "Gurdwara Janam Asthan referred to birth place of Guru Nanak Dev Ji, the founder &amp; first Guru of Sikhism,…",
+    "author": "Shahzaib Damn Cruze",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Janam_Asthan_(151717).jpg"
+   },
+   {
+    "src": "/places/gurdwara-janam-asthan/04.jpg",
+    "w": 1600,
+    "h": 900,
+    "alt": "Gurdwara Janam Asthan referred to birth place of Guru Nanak Dev Ji, the founder &amp; first Guru of Sikhism,…",
+    "author": "Shahzaib Damn Cruze",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Janam_Asthan_LRMEXPORT_36764050687651220200504_032135197.jpg"
+   },
+   {
+    "src": "/places/gurdwara-janam-asthan/05.jpg",
+    "w": 1600,
+    "h": 1068,
+    "alt": "This is a photo of a monument in Pakistan identified as the",
+    "author": "Shaguftakarim",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Inside_view_of_the_entrance_-_Gurdwara_Janam_Asthan.jpg"
+   },
+   {
+    "src": "/places/gurdwara-janam-asthan/06.jpg",
+    "w": 1600,
+    "h": 1068,
+    "alt": "This is a photo of a monument in Pakistan identified as the",
+    "author": "Shaguftakarim",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Mandap_at_Gurdwara_Janam_Asthan.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Janam_Asthan"
+ },
+ {
+  "slug": "gurdwara-tambo-sahib",
+  "name": "Gurdwara Tambo Sahib",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-balila-sahib",
+  "name": "Gurdwara Balila Sahib",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-malji-sahib",
+  "name": "Gurdwara Malji Sahib",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-kiara-sahib",
+  "name": "Gurdwara Kiara Sahib",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-patti-sahib",
+  "name": "Gurdwara Patti Sahib",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-panjvi-chati-patshahi",
+  "name": "Gurdwara Panjvi Chati Patshahi",
+  "city": "Nankana Sahib",
+  "province": "Punjab",
+  "area": "Nankana Sahib",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-sacha-sauda",
+  "name": "Gurdwara Sacha Sauda",
+  "city": "Farooqabad",
+  "province": "Punjab",
+  "area": "Farooqabad, Sheikhupura district",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-babe-di-ber",
+  "name": "Gurdwara Babe-di-Ber",
+  "city": "Sialkot",
+  "province": "Punjab",
+  "area": "Sialkot",
+  "type": "Historical sites",
+  "rich": true,
+  "summary": "Gurdawara Bair Sahib, also called Baba Beri or Baba Bair, or Gurdwara Babe Di Ber, is situated in Sialkot, Pakistan.",
+  "history": [
+   {
+    "heading": "History",
+    "text": "It was the place where Baba Guru Nanak stayed and met Hamza Ghaus, a famous saint of Sialkot. The berry tree under which Guru Nanak stayed is still present. The gurdwara was built by Natha Singh and it includes a garden, a pool and residential rooms. The gurdwara was damaged in the wake of the Babari Masjid dispute. There used to be a very high temple which was razed to the ground when it was demolished by an unruly mob. The gurdwara was renovated during the 2010s and opened for pilgrims. Access to the gurdwara to Indian Sikh pilgrims was restored in November 2012."
+   }
+  ],
+  "coords": {
+   "lat": 32.48102778,
+   "lng": 74.54888889
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-babe-di-ber/02.jpg",
+    "w": 1600,
+    "h": 2133,
+    "alt": "Centuries old gurdwara Baba Di Bair (Beri Sahib) in Sialkot, Punjab, Pakistan",
+    "author": "Sarmad Mahmud",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Centuries_old_Sikh_Gurdwara_Baba_Di_Bair.JPG"
+   },
+   {
+    "src": "/places/gurdwara-babe-di-ber/03.jpg",
+    "w": 1322,
+    "h": 800,
+    "alt": "Fresco depicting Guru Gobind Singh formalizing the Khalsa Panth with the Panj Piare/Pyare at Anandpur Sahib…",
+    "author": "MaplesyrupSushi",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fresco_depicting_Guru_Gobind_Singh_formalizing_the_Khalsa_Panth_with_the_Panj_Piare_at_Anandpur_Sahib,_from_Gurdwara_Babe-di-Ber,_Sialkot,_circa_19th_century.jpg"
+   },
+   {
+    "src": "/places/gurdwara-babe-di-ber/04.jpg",
+    "w": 1024,
+    "h": 525,
+    "alt": "Fresco depicting Guru Nanak meeting Hazrat/Baba Hamza Ghaus/Ghous, from Gurdwara Babe-di-Ber/Beri Sahib,…",
+    "author": "MaplesyrupSushi",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Fresco_depicting_Guru_Nanak_meeting_Hazrat_Hamza_Ghaus,_from_Gurdwara_Babe-di-Ber,_Sialkot,_circa_19th_century.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Beri_Sahib"
+ },
+ {
+  "slug": "gurdwara-darbar-sahib-kartarpur",
+  "name": "Gurdwara Darbar Sahib Kartarpur",
+  "city": "Kartarpur",
+  "province": "Punjab",
+  "area": "Narowal district",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "Gurdwara Darbar Sahib Kartarpur, also called Kartarpur Sahib, is a gurdwara in Kartarpur, Punjab, Pakistan. Kartarpur, a small town beside the Ravi River in the Shakargarh Tehsil of Narowal District, stands on the historic site where Guru Nanak, the founder of Sikhism, settled and assembled the Sikh community after his missionary travels. Nanak lived there for 18 years until his death in 1539. It is one of the holiest sites in Sikhism.",
+  "history": [
+   {
+    "heading": "History",
+    "text": "Guru Nanak spent his final years in Kartarpur, where he established a community and preached the principles of 'Kirit Karni' (honest labor), 'Wand Chakna' (sharing with others), and 'Naam Japna' (meditation on the divine name). He also engaged in farming during this time. Following his death, a dispute arose over his 'chadar' (shawl) between Hindus and Muslims. This was resolved by dividing the chadar, with the Muslims burying their portion and the Hindus cremating theirs. Due to periodic flooding of the cremation site by the Ravi River, Guru Nanak's son, Baba Sri Chand, moved the ashes to a safer location, which is now known as Dera Baba Nanak."
+   },
+   {
+    "heading": "Location",
+    "text": "Gurdwara Kartarpur Sahib is located in the Shakargarh Tehsil of the Narowal District in Punjab, Pakistan."
+   },
+   {
+    "heading": "Significance",
+    "text": "The gurdwara was built to commemorate the site where Guru Nanak, the founder of Sikhism, settled and farmed after his missionary work. Guru Nanak founded the Kartarpur town by Ravi River in 1504, plowing the fields and setting up a langar (community kitchen). He assembled a Sikh commune there, and lived for 18 years until his death on 22 September 1539. The gurdwara is built where Guru Nanak is said to have died. It is one of the holiest sites in Sikhism. Here, Guru Nanak gave the three principles of Kirat Karo, Naam Japo, Vand Chako, meaning to work hard for a livelihood, remember God, and share your bounties with the world."
+   },
+   {
+    "heading": "Access via Kartarpur Corridor",
+    "text": "The call for a visa-free Kartarpur Sahib corridor was an old, strong, persistent demand from the Sikh community. The move was mooted first during the then Prime Minister of India Atal Bihari Vajpayee’s bus ride to Lahore in 1999, while Pakistani president Pervez Musharraf approved the idea in 2000, and issued various tenders for construction purposes. India, however, maintained that the two-decade-old request has been lying pending with Pakistan. As the shrine lies only 3 kilometers from the border with India, Pakistan, in the year 2000, agreed to allow Sikh pilgrims from India to visit the shrine visa-free by constructing a bridge from the border to the shrine."
+   }
+  ],
+  "coords": {
+   "lat": 32.08735,
+   "lng": 75.01658
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-darbar-sahib-kartarpur/01.jpg",
+    "w": 1600,
+    "h": 900,
+    "alt": "Gurdwara Darbar Sahib Kartarpur, also called Kartarpur Sahib, is the gurdwara in Kartarpur, located in…",
+    "author": "Harvinder Chandigarh",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Agricultural_fields_where_Guru_Nanak_used_to_perform_cultivation,_Gurdwara_Darbar_Sahib_Kartarpur_,Pakistan_08.jpg"
+   },
+   {
+    "src": "/places/gurdwara-darbar-sahib-kartarpur/02.jpg",
+    "w": 1600,
+    "h": 2133,
+    "alt": "Well was equipped with Persian wheel and used by baba Nanak for irrigating his fields",
+    "author": "Guglani",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Baba_Nanak%27s_Well_at_Kartarpur.jpg"
+   },
+   {
+    "src": "/places/gurdwara-darbar-sahib-kartarpur/04.jpg",
+    "w": 1600,
+    "h": 2843,
+    "alt": "Gurdwara Darbar Sahib Kartarpur, also called Kartarpur Sahib, is the gurdwara in Kartarpur, located in…",
+    "author": "Harvinder Chandigarh",
+    "license": "CC BY 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Diwan_Hall_in_Gurdwara_Darbar_Sahib_Kartarpur_,Pakistan_04.jpg"
+   },
+   {
+    "src": "/places/gurdwara-darbar-sahib-kartarpur/05.jpg",
+    "w": 1600,
+    "h": 1215,
+    "alt": "Gurdwara Sri Darbar Sahib or Gurdwara Darbar Sahib Kartarpur, also called Kartarpur Sahib, is a Gurdwara in…",
+    "author": "Shahzaib Damn Cruze",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Darbar_Sahib_Kartarpur7.jpg"
+   },
+   {
+    "src": "/places/gurdwara-darbar-sahib-kartarpur/06.jpg",
+    "w": 1600,
+    "h": 900,
+    "alt": "Gurdwara Sri Darbar Sahib or Gurdwara Darbar Sahib Kartarpur, also called Kartarpur Sahib, is a Gurdwara in…",
+    "author": "Shahzaib Damn Cruze",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Darbar_Sahib_Kartarpur8.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Darbar_Sahib_Kartarpur"
+ },
+ {
+  "slug": "gurdwara-bhai-joga-singh",
+  "name": "Gurdwara Bhai Joga Singh",
+  "city": "Peshawar",
+  "province": "Khyber Pakhtunkhwa",
+  "area": "Peshawar",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-bhai-beba-singh",
+  "name": "Gurdwara Bhai Beba Singh",
+  "city": "Peshawar",
+  "province": "Khyber Pakhtunkhwa",
+  "area": "Peshawar",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-dera-sahib",
+  "name": "Gurdwara Dera Sahib",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "near Lahore Fort",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "Gurdwara Dera Sahib (Punjabi, Urdu: گوردوارہ ڈیرا صاحب), also known as Gurdwara Dera Sahib Patshahi Panjvin, is a gurdwara in Lahore, Punjab, Pakistan, which commemorates the spot where the 5th guru of Sikhism, Guru Arjan Dev, was martyred in 1606.",
+  "history": [
+   {
+    "heading": "Location",
+    "text": "The gurdwara is located just outside of the Walled City of Lahore, and is part of an ensemble of monuments which includes the Lahore Fort, Samadhi of Ranjit Singh, Hazuri Bagh quadrangle, Tomb of Iqbal, Roshnai Gate, and the Badshahi Mosque. The gurdwara is located at the coordinates 31°35'23.3\"N, 74°18'42.5\"E. The complex faces the Hathi Pol (Elephant Gate) of the Lahore Fort."
+   },
+   {
+    "heading": "Admission",
+    "text": "Visiting the site is only permitted to local or visiting Sikhs, with all others requiring special permission from the Evacuee Trust Property Board."
+   },
+   {
+    "heading": "History",
+    "text": "The gurdwara marks the location where the fifth Sikh guru, Guru Arjan, is believed to have disappeared and died. The Guru had undergone torture on the orders of the Mughal emperor Jahangir, at a site in Lahore's walled city that is commemorated by the defunct Gurdwara Lal Khoohi—which has been repurposed into a Muslim shrine by the name of Haq Chaar Yaar. The Guru's torture infuriated his close friend and Muslim mystic, Mian Mir. On the fifth day of torture, the Guru's request for a bath in the Ravi River was granted after intercession from Mian Mir. After submerging himself in the river, the Guru reportedly did not reappear, and a Mughal search party was unable to retrieve him."
+   }
+  ],
+  "coords": {
+   "lat": 31.58977,
+   "lng": 74.31175
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-dera-sahib/01.jpg",
+    "w": 960,
+    "h": 720,
+    "alt": "This is a photo of a monument in Pakistan identified as the",
+    "author": "Asmii85",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Golden_dome_of_Gurdwara_Dera_Sahib.jpg"
+   },
+   {
+    "src": "/places/gurdwara-dera-sahib/03.jpg",
+    "w": 1600,
+    "h": 900,
+    "alt": "Gurdwara Dera Sahib Boundary",
+    "author": "King Eliot",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Dera_Sahib_Boundary.jpg"
+   },
+   {
+    "src": "/places/gurdwara-dera-sahib/04.jpg",
+    "w": 1600,
+    "h": 900,
+    "alt": "Gurdwara Dera Sahib Gate",
+    "author": "King Eliot",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Dera_Sahib_Gate.jpg"
+   },
+   {
+    "src": "/places/gurdwara-dera-sahib/05.jpg",
+    "w": 1452,
+    "h": 1200,
+    "alt": "This is a photo of a monument in Pakistan identified as the",
+    "author": "Bilalhassan88",
+    "license": "CC BY-SA 3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Dera_Sahib_and_Samadhi_of_Ranjit_Singh.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Dera_Sahib"
+ },
+ {
+  "slug": "gurdwara-guru-ram-das-ji",
+  "name": "Gurdwara Guru Ram Das Ji",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "Guru Ram Das (Gurmukhi: ਗੁਰੂ ਰਾਮ ਦਾਸ, pronunciation: [gʊɾuː ɾaːmᵊ d̯aːsᵊ]; 24 September 1534 – 1 September 1581), sometimes spelled as Guru Ramdas, was the fourth of the ten Sikh gurus. He was born to a family based in Lahore. His birth name was Jetha, and he was orphaned at age seven; he thereafter grew up with his maternal grandmother in a village.",
+  "history": [
+   {
+    "heading": "Early life",
+    "text": "Bhai Jetha was born in the morning of 24 September 1534 in a family belonging to the Sodhi gotra (clan) of the Khatri caste in Chuna Mandi, Lahore. His father was Hari Das and his mother was Mata Anup Devi (also known later-on as Anup Kaur or Daya Kaur), both of whom were highly religious. His paternal grandfather was Thakur Das, who was well-known and worked as a shopkeeper in Chuna Mandi, his paternal grandmother was named Jaswanti, and his great-grandfather was Gurdial Sodhi. His father, Hari Das, had inherited the shopkeeper occupation from his own father. His parents had been married for a period of around twelve years before they gave birth to Ram Das."
+   },
+   {
+    "heading": "Guruship",
+    "text": "Jetha become guru on 30 August 1574, became known as Guru Ram Das, and held the office for seven years. He was the first of Guru Nanak's successors to rekindle ties with Sri Chand, Nanak's son, after a long period of strained relations between mainstream Sikhs and the Udasis. Sri Chand paid Guru Ram Das a visit in Amritsar, where he was lavishly received by the Guru on the outskirts of the city. When Sri Chand made a comment about Guru Ram Das' long beard, the Guru stated the beard is useful for wiping the feet of saints like him, and got-up to actually wipe the feet of Sri Chand with his beard."
+   },
+   {
+    "heading": "Death and succession",
+    "text": "Guru Ram Das died on 1 September 1581, in Goindwal, he nominated his younger son, Arjan Dev, as his successor. The Guru's eldest son Prithi Chand vehemently protested against his father suppression. The second son Mahadev did not press his claim. Prithi Chand used offensive language to his father, and then informed Baba Budhha that his father had acted inappropriately; the guruship was his own right. He vowed that he would remove Guru Arjan, and make himself the Guru. Later Prithi Chand created a rival faction which the Sikhs following Guru Arjan called Minas literally, \"scoundrels\"), and is alleged to have attempted to assassinate young Hargobind."
+   },
+   {
+    "heading": "Literature",
+    "text": "Guru Ram Das composed written works, which is preserved in the Guru Granth Sahib, known as gurbani. His style differs from that of his predecessor, whilst Guru Amar Das had a more conservative approach, possibly due to his older-age, the younger Guru Ram Das was more innovative in his poetry, such as the addition of new rāgs that the hymns were set to, where as Guru Amar Das utilized the same set of rāgs that Guru Nanak had employed in his compositions, and Guru Ram Das composing innovating rhythms. Furthermore, while the works of earlier gurus freely borrowed Persianate vocabulary, the works of Guru Ram Das show a move toward Sanskritic and Hindi vocabulary."
+   },
+   {
+    "heading": "Cited sources",
+    "text": "Fenech, Louis E.; W. H. McLeod (2014). Historical Dictionary of Sikhism. Rowman & Littlefield. ISBN 978-1-4422-3601-1."
+   }
+  ],
+  "coords": null,
+  "images": [
+   {
+    "src": "/places/gurdwara-guru-ram-das-ji/01.jpg",
+    "w": 1600,
+    "h": 1600,
+    "alt": "Brass plaque at Gurdwara Chaubara Sahib Goindwal depicting scene of Guru Ramdas being enthroned to Guruship…",
+    "author": "Guglani",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:22_Missionaries_established_by_Guru_Amardas.jpg"
+   },
+   {
+    "src": "/places/gurdwara-guru-ram-das-ji/03.jpg",
+    "w": 1600,
+    "h": 1584,
+    "alt": "Guru Ram Das fresco from a Samadh at an Udhasi Darbar, Bhoman Shah (alt.",
+    "author": "Unknown artist. Photograph by Amardeep Singh.",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_fresco_from_a_Samadh_at_an_Udhasi_Darbar.jpg"
+   },
+   {
+    "src": "/places/gurdwara-guru-ram-das-ji/04.jpg",
+    "w": 1414,
+    "h": 2048,
+    "alt": "Guru Ram Das fresco from the Samadhi of Maharaja Ranjit Singh, Lahore. (Nadhra Shahbaz Khan 2010)",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_fresco_from_the_Samadhi_of_Maharaja_Ranjit_Singh,_Lahore.jpg"
+   },
+   {
+    "src": "/places/gurdwara-guru-ram-das-ji/05.jpg",
+    "w": 1600,
+    "h": 2154,
+    "alt": "Guru Ram Das (seated) being fanned by a fly-whisk attendant, family atelier of Nainsukh of Guler, circa 1800.",
+    "author": "Family workshop (or atelier) of Nainsukh of Guler",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_miniature_painting.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Guru_Ram_Das"
+ },
+ {
+  "slug": "gurdwara-shaheed-ganj-singh-singhnian",
+  "name": "Gurdwara Shaheed Ganj Singh Singhnian",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "The Gurdwara Shahid Ganj Singh Singhania, also known as Gurdwara Shaheedganj Singh Singhnian, is a historic Sikh gurdwara at Shahidganj in Naulakha Bazaar in Lahore, Pakistan, which marks the site where over 100,000 Sikh men and women lost their lives in the 18th century. According to Neelum Naz, 250,000 Sikhs were killed at the site during the 18th century.",
+  "history": [
+   {
+    "heading": "History",
+    "text": "In 1721, Zakariya Khan was appointed governor of Lahore by the Mughal court and embarked on a campaign to eradicate the Sikhs. In 1739, hundred of Sikhs were rounded-up and executed at Lahore at a horse-market that later became known as Shahidganj. Furthermore, anyone caught helping Sikhs would be punished and those who cut the hair of Sikhs, provided a Sikh head, or gave intel on Sikhs were rewarded. In 1745, Zakaria Khan sent a force to Phula village to arrest Bhai Taru Singh, as he had been providing assistance to Sikhs. Bhai Taru Singh was subsequently executed at Lahore."
+   },
+   {
+    "heading": "Location",
+    "text": "The shrine is located in Naulakha Bazaar at the coordinates 31°34'42.8\"N 74°19'55.4\"E."
+   },
+   {
+    "heading": "Architecture",
+    "text": "The structure is made out of marble and combines old and new styles. A portico is situated on a podium in the centre of the site. The interior of the site is embellished. The remains of holding cells and student quarters can be found at the site."
+   }
+  ],
+  "coords": {
+   "lat": 31.578579,
+   "lng": 74.332091
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-shaheed-ganj-singh-singhnian/01.jpg",
+    "w": 1600,
+    "h": 1083,
+    "alt": "Photograph of Gurdwara Shahid Ganj [alt. spelt as Shaheed/Sahid], ca.1930's.",
+    "author": "Unknown photographer",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Gurdwara_Shahid_Ganj,_ca.1930%27s.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Shahid_Ganj_Singh_Singhania"
+ },
+ {
+  "slug": "gurdwara-babay-nanki",
+  "name": "Gurdwara Babay Nanki",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-panja-sahib",
+  "name": "Gurdwara Panja Sahib",
+  "city": "Hasan Abdal",
+  "province": "Punjab",
+  "area": "Hasan Abdal, Attock district",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "Gurdwara Panja Sahib is a gurdwara located in Hasan Abdal, Punjab, Pakistan. It is one of the most important sites for the Sikhs, as the handprint of Guru Nanak—the founder of Sikhism—is believed to be imprinted on a boulder at the gurdwara. It is managed by the Pakistan Sikh Gurdwara Parbandhak Committee under the federal government of Pakistan.",
+  "history": [
+   {
+    "heading": "History",
+    "text": "The famous Chinese traveler Xuanzang who visited the place in the 7th century CE mentions the sacred spring of Elapatra about 70 li to the northwest of Taxila which has been identified as the spring at Gurdwara Panja Sahib. Guru Nanak along with Bhai Mardana reached Hasan Abdal in Baisakh Samwat 1578 BK, corresponding to the summer of 1521 CE, when according to Sikh legend, Guru Nanak's handprint was imprinted onto a boulder. The Gurdwara was named Panja Sahib by Hari Singh Nalwa, the most famous general of the Sikh Empire. He is credited with having built the first gurdwara at the site. The older structure of Gurdwara Panja Sahib had murals depicting Guru Nanak decorating its walls."
+   },
+   {
+    "heading": "Legend",
+    "text": "Under a shady cool tree, Guru Nanak and Bhai Mardana started reciting Kirtan and their devotees gathered around. This annoyed a local saint, Shah Wali Qandhari. According to Sikh legend, Bhai Mardana was sent three times to Shah Wali Qandhari by Guru Nanak so that he would provide him with some water to quench his thirst. Wali Qandhari refused his request and was rude to him. In spite of this, Mardana still very politely stuck to his demand. The Wali remarked : \"Why don't you ask your Master whom you serve?\" Mardana went back to the Guru in a miserable state and said \"Oh lord! I prefer death to thirst but will not approach Wali the egoist.\" The Guru replied \"Oh Bhai Mardana ji!"
+   }
+  ],
+  "coords": {
+   "lat": 33.82083333,
+   "lng": 72.68972222
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-panja-sahib/01.jpg",
+    "w": 1600,
+    "h": 2133,
+    "alt": "Sikh 'Hasan Abdal Temple' — of Punjab, Pakistan. \"Where Sikh IDP'S from Swat have taken shelter.\"",
+    "author": "Al Jazeera English",
+    "license": "CC BY-SA 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Gudwara_Panja_Sahib_-_Flickr_-_Al_Jazeera_English_(1).jpg"
+   },
+   {
+    "src": "/places/gurdwara-panja-sahib/02.jpg",
+    "w": 1300,
+    "h": 930,
+    "alt": "Guru Nanak stops the boulder from falling with his hand at Hasan Abdal. 19th century artwork.",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Guru_Nanak_stops_the_boulder_from_falling_with_his_hand.jpg"
+   },
+   {
+    "src": "/places/gurdwara-panja-sahib/04.jpg",
+    "w": 1600,
+    "h": 2133,
+    "alt": "The Entrance to Panja Sahib Gurdwara in Hasan Abdal Public Domain July 2006",
+    "author": "BookwormUK at English Wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:PanjaSahibEntrance.JPG"
+   },
+   {
+    "src": "/places/gurdwara-panja-sahib/05.jpg",
+    "w": 1600,
+    "h": 2133,
+    "alt": "Exterior photograph of Panja Sahib Gurdwara, Hasan Abdal",
+    "author": "BookwormUK at English Wikipedia",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:PanjaSahibExterior1.JPG"
+   },
+   {
+    "src": "/places/gurdwara-panja-sahib/06.jpg",
+    "w": 1600,
+    "h": 1200,
+    "alt": "A view of the Panja Sahib Shrine in Hasan Abdal, Pakistan",
+    "author": "Muhammad Imran Saeed",
+    "license": "CC BY 2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:PanjaSahibHasanAbdal.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Panja_Sahib"
+ },
+ {
+  "slug": "gurdwara-rori-sahib",
+  "name": "Gurdwara Rori Sahib",
+  "city": "Eminabad",
+  "province": "Punjab",
+  "area": "Eminabad, Gujranwala district",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib",
+  "name": "Gurdwara Chhevin Patshahi Sri Guru Hargobind Sahib",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Temple Road, Mozang",
+  "type": "Gurdwaras",
+  "rich": true,
+  "summary": "Guru Hargobind (Gurmukhi: ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ, pronunciation: [gʊɾuː ɦəɾᵊgoːbɪn̯d̯ᵊ]l 19 June 1595 – 28 February 1644) was the sixth of ten Gurus of the Sikh religion. He became Guru at the age of eleven, after the execution of his father, Guru Arjan, by the Mughal emperor Jahangir.",
+  "history": [
+   {
+    "heading": "Early life",
+    "text": "Guru Hargobind was born in Gurū kī Waḍālī, on 19th June of 1595, in a Sodhi Khatri family in a village 7 kilometres (4.3 mi) west of Amritsar, the only son of Guru Arjan, the fifth Sikh Guru. However, Pashaura Singh suggests that he was actually born 19 June 1590. He spent the first sixteen years of his life at Ramdaspur (Amritsar) in the presence of his father. According to Sikh hagiographies, Guru Hargobind survived two poisoning attempts by his uncle Prithi Chand and his wife, Karmo, as well as another attempt on his life, when a cobra was thrown at him by Prithi Chand."
+   },
+   {
+    "heading": "Guruship",
+    "text": "On 25 May 1606, Guru Arjan, five days before his own death, selected his son Hargobind as his successor and instructed his son to start a military tradition to protect the Sikh people and always keep himself surrounded by armed Sikhs for protection. Shortly afterwards, Arjan was arrested, tortured and killed by order of the Mughal Emperor Jahangir on 30 May 1606. Guru Hargobind's succession ceremony took place on 24 June 1606. He put on two swords: one indicated his spiritual authority (pīrī) and the other, his temporal authority (mīrī). He followed his martyred father's advice and always kept himself surrounded by armed Sikhs for protection."
+   },
+   {
+    "heading": "Marriages",
+    "text": "Guru Hargobind had multiple wives, who are as follows: Mata Damodari (1597 – 13 July 1631), married on 15 February 1605, who birthed Baba Gurditta (b. 1613) and Bibi Viro (b. 1615) Mata Marvahi/Mahadevi (died 1645), married on 7 July 1615, who birthed Suraj Mal (b. 1617) Mata Nanaki (d. 1678), married in April 1613, who birthed Ani Rai (b. 1618), Atal Rai (b. 1619), and Guru Tegh Bahadur (b. 1621)"
+   },
+   {
+    "heading": "Death",
+    "text": "He nominated his grandson, Guru Har Rai, to succeed him. He died in 1644 at Kiratpur Sahib, a town on the banks of the River Sutlej, and was cremated on the banks of the river, where now stands Gurdwara Patalpuri Sahib."
+   },
+   {
+    "heading": "Sectarian views",
+    "text": "Guru Hargobind's reforms also had an impact on the Minas, a sect that rose to become a major opponent of the mainstream lineage of Sikh gurus. Prior to Guru Hargobind's reign, the Mina literature emulated the writings and appearances of the previous five gurus in-style, whilst portraying themselves as spiritually superior. However, Guru Hargobind conducted himself very differently from the previous gurus, thus the Minas were not able to emulate his ethos, and therefore relegated to keep mirroring the environment of the pre-Guru Hargobind Sikh court."
+   }
+  ],
+  "coords": null,
+  "images": [
+   {
+    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/01.jpg",
+    "w": 1600,
+    "h": 2105,
+    "alt": "Ancient painting of sixth Sikh guru Guru Hargobind Sahib ji from Bhai Rupa's family collection, likely 17th…",
+    "author": "Historiansimar",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ancient_Painting_of_Guru_Hargobind_Sahib_ji.jpg"
+   },
+   {
+    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/03.jpg",
+    "w": 1600,
+    "h": 2400,
+    "alt": "A contemporary painting of the sixth Sikh guru, Guru Hargobind.",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Contemporary_painting_of_the_sixth_Sikh_guru,_Guru_Hargobind._Provincial_Mughal_school,_Deccan,_mid-17th_century.jpg"
+   },
+   {
+    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/04.jpg",
+    "w": 1440,
+    "h": 1800,
+    "alt": "Fresco artwork of Guru Hargobind",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Fresco_artwork_of_Guru_Hargobind.jpg"
+   },
+   {
+    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/06.jpg",
+    "w": 884,
+    "h": 960,
+    "alt": "Painting of Guru Arjan (middle and seated) with a young Hargobind (left).",
+    "author": "possibly D.A. Ahuja of Rangoon (Burma)",
+    "license": "Public domain",
+    "page": "https://commons.wikimedia.org/wiki/File:Guru_Arjan_with_a_young_Hargobind.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Guru_Hargobind"
+ },
+ {
+  "slug": "gurdwara-pehli-patshahi",
+  "name": "Gurdwara Pehli Patshahi",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-sri-nank-garh",
+  "name": "Gurdwara Sri Nank Garh",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "baoli-sahib-sri-guru-amar-das",
+  "name": "Baoli Sahib Sri Guru Amar Das",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-baoli-sahib-guru-arjan-dev-ji",
+  "name": "Gurdwara Baoli Sahib Guru Arjan Dev Ji",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-bhai-budhu-da-awa",
+  "name": "Gurdwara Bhai Budhu Da Awa",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-lal-khooh",
+  "name": "Gurdwara Lal Khooh",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-diwan-khana",
+  "name": "Gurdwara Diwan Khana",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-kahna",
+  "name": "Gurdwara Kahna",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "near Kahna Hospital, Kahna",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-sach-khand-sahib",
+  "name": "Gurdwara Sach Khand Sahib",
+  "city": "Shikarpur",
+  "province": "Sindh",
+  "area": "Shikarpur",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-dash-mesh-pita",
+  "name": "Gurdwara Dash Mesh Pita",
+  "city": "Sukkur",
+  "province": "Sindh",
+  "area": "Sukkur",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "halani-darbar",
+  "name": "Halani Darbar",
+  "city": "Halani",
+  "province": "Sindh",
+  "area": "Halani, Naushahro Feroze district",
+  "type": "Community places",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-sri-guru-nanak-sat-sang-sabha",
+  "name": "Gurdwara Sri Guru Nanak Sat Sang Sabha",
+  "city": "Karachi",
+  "province": "Sindh",
+  "area": "Aram Bagh, Karachi",
+  "type": "Community places",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-sahib-manora",
+  "name": "Gurdwara Sahib, Manora",
+  "city": "Karachi",
+  "province": "Sindh",
+  "area": "Manora, Karachi",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-jaisak",
+  "name": "Gurdwara Jaisak",
+  "city": "Jaisak",
+  "province": "Punjab",
+  "area": "Mandi Bahauddin district",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-dipalpur",
+  "name": "Gurdwara Dipalpur",
+  "city": "Dipalpur",
+  "province": "Punjab",
+  "area": "Okara district",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-mangat",
+  "name": "Gurdwara Mangat",
+  "city": "Mangat",
+  "province": "Punjab",
+  "area": "Mandi Bahauddin district",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "gurdwara-bhai-than-singh",
+  "name": "Gurdwara Bhai Than Singh",
+  "city": "Kot Fateh Khan",
+  "province": "Punjab",
+  "area": "Attock district",
+  "type": "Gurdwaras",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ },
+ {
+  "slug": "samadhi-of-maharaja-ranjit-singh",
+  "name": "Samadhi of Maharaja Ranjit Singh",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "near Lahore Fort",
+  "type": "Historical sites",
+  "rich": false,
+  "summary": "",
+  "history": [],
+  "coords": null,
+  "images": []
+ }
+]

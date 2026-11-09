@@ -1,0 +1,27 @@
+{
+  "name": "Gurdwara Pehli Patshahi",
+  "slug": "gurdwara-pehli-patshahi",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore city",
+  "country": "Pakistan",
+  "wikipedia_title": null,
+  "wikipedia_url": null,
+  "summary": "",
+  "history": [],
+  "coordinates": null,
+  "images": [
+    {
+      "title": "File:Khalra Gurudwara.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Khalra_Gurudwara.jpg/1920px-Khalra_Gurudwara.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Khalra_Gurudwara.jpg",
+      "width": 5184,
+      "height": 3456,
+      "license": "CC BY-SA 4.0",
+      "author": "Harnamsinghkhalra",
+      "caption": "Gurdwara Shri Patshahi Pehli sahib",
+      "file": "images/gurdwara-pehli-patshahi/02.jpg"
+    }
+  ],
+  "sources": []
+}

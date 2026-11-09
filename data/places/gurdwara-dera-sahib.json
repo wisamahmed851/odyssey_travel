@@ -1,0 +1,78 @@
+{
+  "name": "Gurdwara Dera Sahib",
+  "slug": "gurdwara-dera-sahib",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "near Lahore Fort",
+  "country": "Pakistan",
+  "wikipedia_title": "Gurdwara Dera Sahib",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gurdwara_Dera_Sahib",
+  "summary": "Gurdwara Dera Sahib (Punjabi, Urdu: گوردوارہ ڈیرا صاحب), also known as Gurdwara Dera Sahib Patshahi Panjvin, is a gurdwara in Lahore, Punjab, Pakistan, which commemorates the spot where the 5th guru of Sikhism, Guru Arjan Dev, was martyred in 1606.",
+  "history": [
+    {
+      "heading": "Location",
+      "text": "The gurdwara is located just outside of the Walled City of Lahore, and is part of an ensemble of monuments which includes the Lahore Fort, Samadhi of Ranjit Singh, Hazuri Bagh quadrangle, Tomb of Iqbal, Roshnai Gate, and the Badshahi Mosque. The gurdwara is located at the coordinates 31°35'23.3\"N, 74°18'42.5\"E. The complex faces the Hathi Pol (Elephant Gate) of the Lahore Fort."
+    },
+    {
+      "heading": "Admission",
+      "text": "Visiting the site is only permitted to local or visiting Sikhs, with all others requiring special permission from the Evacuee Trust Property Board."
+    },
+    {
+      "heading": "History",
+      "text": "The gurdwara marks the location where the fifth Sikh guru, Guru Arjan, is believed to have disappeared and died. The Guru had undergone torture on the orders of the Mughal emperor Jahangir, at a site in Lahore's walled city that is commemorated by the defunct Gurdwara Lal Khoohi—which has been repurposed into a Muslim shrine by the name of Haq Chaar Yaar. The Guru's torture infuriated his close friend and Muslim mystic, Mian Mir. On the fifth day of torture, the Guru's request for a bath in the Ravi River was granted after intercession from Mian Mir. After submerging himself in the river, the Guru reportedly did not reappear, and a Mughal search party was unable to retrieve him.\nThe Guru's son and successor, Guru Hargobind had a memorial built here in 1619. The main Gurudwara building with gilded dome was built during Maharaja Ranjit Singh's reign, while some other additions were made later up until the partition. Before 1947, the gurdwara had 150 acres of land in Nandipur village in Daska Tehsil and a house in Chuna Mandi associated with it."
+    }
+  ],
+  "coordinates": {
+    "lat": 31.58977,
+    "lng": 74.31175
+  },
+  "images": [
+    {
+      "title": "File:Golden dome of Gurdwara Dera Sahib.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Golden_dome_of_Gurdwara_Dera_Sahib.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Golden_dome_of_Gurdwara_Dera_Sahib.jpg",
+      "width": 960,
+      "height": 720,
+      "license": "CC BY-SA 3.0",
+      "author": "Asmii85",
+      "caption": "This is a photo of a monument in Pakistan identified as the",
+      "file": "images/gurdwara-dera-sahib/01.jpg"
+    },
+    {
+      "title": "File:Gurdwara Dera Sahib Boundary.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Gurdwara_Dera_Sahib_Boundary.jpg/1920px-Gurdwara_Dera_Sahib_Boundary.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Dera_Sahib_Boundary.jpg",
+      "width": 4128,
+      "height": 2322,
+      "license": "CC BY-SA 4.0",
+      "author": "King Eliot",
+      "caption": "Gurdwara Dera Sahib Boundary",
+      "file": "images/gurdwara-dera-sahib/03.jpg"
+    },
+    {
+      "title": "File:Gurdwara Dera Sahib Gate.jpg",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Gurdwara_Dera_Sahib_Gate.jpg/1920px-Gurdwara_Dera_Sahib_Gate.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Dera_Sahib_Gate.jpg",
+      "width": 4128,
+      "height": 2322,
+      "license": "CC BY-SA 4.0",
+      "author": "King Eliot",
+      "caption": "Gurdwara Dera Sahib Gate",
+      "file": "images/gurdwara-dera-sahib/04.jpg"
+    },
+    {
+      "title": "File:Gurdwara Dera Sahib and Samadhi of Ranjit Singh.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gurdwara_Dera_Sahib_and_Samadhi_of_Ranjit_Singh.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Gurdwara_Dera_Sahib_and_Samadhi_of_Ranjit_Singh.jpg",
+      "width": 1452,
+      "height": 1200,
+      "license": "CC BY-SA 3.0",
+      "author": "Bilalhassan88",
+      "caption": "This is a photo of a monument in Pakistan identified as the",
+      "file": "images/gurdwara-dera-sahib/05.jpg"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gurdwara_Dera_Sahib"
+  ]
+}

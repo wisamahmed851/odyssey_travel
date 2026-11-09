@@ -1,0 +1,11 @@
+# Odyssey Travel
+
+> A guide to Sikh holy places, gurdwaras, historical sites and community places in Pakistan, with history, location and a direct WhatsApp/email contact for visit planning.
+
+## Key pages
+- [Home](/): overview, featured places, how to plan a visit
+- [All places](/places): every listed gurdwara and heritage site, filterable by type and province
+- [Sitemap](/sitemap.xml): full list of place pages
+
+## Notes
+- Place pages include city, province, coordinates where known, history, and photo credits (Wikimedia Commons licences).
