@@ -2,11 +2,8 @@
 import { useSearchParams } from 'next/navigation'
 import { useEffect, useState } from 'react'
 import { FILTERS, PLACES, matches } from '@/lib/places'
-import PlaceCard from './PlaceCard'
+import PlacesGrid from './PlacesGrid'
 import { ArrIcon } from './ui'
-
-const AR_IMG = ['432/520', '432/380', '432/520', '432/440']
-const AR_TILE = ['432/340', '432/360', '432/320', '432/420', '432/300']
 
 export default function PlacesBrowser() {
   const params = useSearchParams()
@@ -19,8 +16,6 @@ export default function PlacesBrowser() {
     return () => clearTimeout(t)
   }, [f, q])
   const list = PLACES.filter((p) => matches(p, f, q))
-  let a = 0
-  let b = 0
   return (
     <>
       <section className="wrap" style={{ paddingTop: 12 }}>
@@ -41,12 +36,7 @@ export default function PlacesBrowser() {
         {list.length === 0 ? (
           <p className="empty lead">No places match your search. Try another city or clear the filter.</p>
         ) : (
-          <div className="masonry">
-            {list.map((p, i) => {
-              const img = p.images.length > 0
-              return <PlaceCard key={p.slug} p={p} i={i} shp={img ? i % 4 === 0 : i % 5 === 3} ar={img ? AR_IMG[a++ % 4] : AR_TILE[b++ % 5]} priority={i < 2} />
-            })}
-          </div>
+          <PlacesGrid list={list} />
         )}
       </section>
     </>

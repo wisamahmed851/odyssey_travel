@@ -14,3 +14,4 @@ npm run data                 # rebuild src/data/places.json + public/places from
 - Places without scraped details are `noindex` and left out of `sitemap.xml` until they have content.
 - SEO/GEO/AEO: metadata + canonical + Open Graph, JSON-LD (WebSite, TravelAgency, ItemList, TouristAttraction, BreadcrumbList, FAQPage), `sitemap.xml`, `robots.txt`, `llms.txt`, manifest.
 - Performance: static HTML, `next/image` (AVIF/WebP, responsive sizes, priority only on LCP images), self-hosted fonts (only theme A fonts preloaded), immutable cache headers on photos, no animation libraries (CSS + one small effects component).
+- `python scripts/audit.py` checks a running build (titles, descriptions, h1, canonical, Open Graph, JSON-LD, thin pages).

@@ -47,7 +47,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           '@context': 'https://schema.org',
           '@graph': [
             { '@type': 'WebSite', '@id': `${SITE.url}/#website`, url: SITE.url, name: SITE.name, description: SITE.description, inLanguage: 'en', publisher: { '@id': `${SITE.url}/#org` } },
-            { '@type': 'TravelAgency', '@id': `${SITE.url}/#org`, name: SITE.name, url: SITE.url, description: SITE.tagline, areaServed: { '@type': 'Country', name: 'Pakistan' }, knowsAbout: ['Sikh holy places', 'Gurdwaras in Pakistan', 'Sikh heritage tourism'], ...(SITE.email ? { email: SITE.email } : {}) },
+            { '@type': 'TravelAgency', '@id': `${SITE.url}/#org`, name: SITE.name, url: SITE.url, description: SITE.tagline, logo: `${SITE.url}/icon.svg`, image: `${SITE.url}/og.jpg`, areaServed: { '@type': 'Country', name: 'Pakistan' }, knowsAbout: ['Sikh holy places', 'Gurdwaras in Pakistan', 'Sikh heritage tourism'], ...(SITE.email ? { email: SITE.email } : {}) },
           ],
         }} />
       </head>

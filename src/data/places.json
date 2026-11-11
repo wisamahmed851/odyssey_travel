@@ -343,7 +343,7 @@
   "area": "near Lahore Fort",
   "type": "Gurdwaras",
   "rich": true,
-  "summary": "Gurdwara Dera Sahib (Punjabi, Urdu: گوردوارہ ڈیرا صاحب), also known as Gurdwara Dera Sahib Patshahi Panjvin, is a gurdwara in Lahore, Punjab, Pakistan, which commemorates the spot where the 5th guru of Sikhism, Guru Arjan Dev, was martyred in 1606.",
+  "summary": "Gurdwara Dera Sahib, also known as Gurdwara Dera Sahib Patshahi Panjvin, is a gurdwara in Lahore, Punjab, Pakistan, which commemorates the spot where the 5th guru of Sikhism, Guru Arjan Dev, was martyred in 1606.",
   "history": [
    {
     "heading": "Location",
@@ -409,70 +409,11 @@
   "province": "Punjab",
   "area": "Lahore",
   "type": "Gurdwaras",
-  "rich": true,
-  "summary": "Guru Ram Das (Gurmukhi: ਗੁਰੂ ਰਾਮ ਦਾਸ, pronunciation: [gʊɾuː ɾaːmᵊ d̯aːsᵊ]; 24 September 1534 – 1 September 1581), sometimes spelled as Guru Ramdas, was the fourth of the ten Sikh gurus. He was born to a family based in Lahore. His birth name was Jetha, and he was orphaned at age seven; he thereafter grew up with his maternal grandmother in a village.",
-  "history": [
-   {
-    "heading": "Early life",
-    "text": "Bhai Jetha was born in the morning of 24 September 1534 in a family belonging to the Sodhi gotra (clan) of the Khatri caste in Chuna Mandi, Lahore. His father was Hari Das and his mother was Mata Anup Devi (also known later-on as Anup Kaur or Daya Kaur), both of whom were highly religious. His paternal grandfather was Thakur Das, who was well-known and worked as a shopkeeper in Chuna Mandi, his paternal grandmother was named Jaswanti, and his great-grandfather was Gurdial Sodhi. His father, Hari Das, had inherited the shopkeeper occupation from his own father. His parents had been married for a period of around twelve years before they gave birth to Ram Das."
-   },
-   {
-    "heading": "Guruship",
-    "text": "Jetha become guru on 30 August 1574, became known as Guru Ram Das, and held the office for seven years. He was the first of Guru Nanak's successors to rekindle ties with Sri Chand, Nanak's son, after a long period of strained relations between mainstream Sikhs and the Udasis. Sri Chand paid Guru Ram Das a visit in Amritsar, where he was lavishly received by the Guru on the outskirts of the city. When Sri Chand made a comment about Guru Ram Das' long beard, the Guru stated the beard is useful for wiping the feet of saints like him, and got-up to actually wipe the feet of Sri Chand with his beard."
-   },
-   {
-    "heading": "Death and succession",
-    "text": "Guru Ram Das died on 1 September 1581, in Goindwal, he nominated his younger son, Arjan Dev, as his successor. The Guru's eldest son Prithi Chand vehemently protested against his father suppression. The second son Mahadev did not press his claim. Prithi Chand used offensive language to his father, and then informed Baba Budhha that his father had acted inappropriately; the guruship was his own right. He vowed that he would remove Guru Arjan, and make himself the Guru. Later Prithi Chand created a rival faction which the Sikhs following Guru Arjan called Minas literally, \"scoundrels\"), and is alleged to have attempted to assassinate young Hargobind."
-   },
-   {
-    "heading": "Literature",
-    "text": "Guru Ram Das composed written works, which is preserved in the Guru Granth Sahib, known as gurbani. His style differs from that of his predecessor, whilst Guru Amar Das had a more conservative approach, possibly due to his older-age, the younger Guru Ram Das was more innovative in his poetry, such as the addition of new rāgs that the hymns were set to, where as Guru Amar Das utilized the same set of rāgs that Guru Nanak had employed in his compositions, and Guru Ram Das composing innovating rhythms. Furthermore, while the works of earlier gurus freely borrowed Persianate vocabulary, the works of Guru Ram Das show a move toward Sanskritic and Hindi vocabulary."
-   },
-   {
-    "heading": "Cited sources",
-    "text": "Fenech, Louis E.; W. H. McLeod (2014). Historical Dictionary of Sikhism. Rowman & Littlefield. ISBN 978-1-4422-3601-1."
-   }
-  ],
+  "rich": false,
+  "summary": "",
+  "history": [],
   "coords": null,
-  "images": [
-   {
-    "src": "/places/gurdwara-guru-ram-das-ji/01.jpg",
-    "w": 1600,
-    "h": 1600,
-    "alt": "Brass plaque at Gurdwara Chaubara Sahib Goindwal depicting scene of Guru Ramdas being enthroned to Guruship…",
-    "author": "Guglani",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:22_Missionaries_established_by_Guru_Amardas.jpg"
-   },
-   {
-    "src": "/places/gurdwara-guru-ram-das-ji/03.jpg",
-    "w": 1600,
-    "h": 1584,
-    "alt": "Guru Ram Das fresco from a Samadh at an Udhasi Darbar, Bhoman Shah (alt.",
-    "author": "Unknown artist. Photograph by Amardeep Singh.",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_fresco_from_a_Samadh_at_an_Udhasi_Darbar.jpg"
-   },
-   {
-    "src": "/places/gurdwara-guru-ram-das-ji/04.jpg",
-    "w": 1414,
-    "h": 2048,
-    "alt": "Guru Ram Das fresco from the Samadhi of Maharaja Ranjit Singh, Lahore. (Nadhra Shahbaz Khan 2010)",
-    "author": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_fresco_from_the_Samadhi_of_Maharaja_Ranjit_Singh,_Lahore.jpg"
-   },
-   {
-    "src": "/places/gurdwara-guru-ram-das-ji/05.jpg",
-    "w": 1600,
-    "h": 2154,
-    "alt": "Guru Ram Das (seated) being fanned by a fly-whisk attendant, family atelier of Nainsukh of Guler, circa 1800.",
-    "author": "Family workshop (or atelier) of Nainsukh of Guler",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Guru_Ram_Das_miniature_painting.jpg"
-   }
-  ],
-  "wiki": "https://en.wikipedia.org/wiki/Guru_Ram_Das"
+  "images": []
  },
  {
   "slug": "gurdwara-shaheed-ganj-singh-singhnian",
@@ -619,70 +560,11 @@
   "province": "Punjab",
   "area": "Temple Road, Mozang",
   "type": "Gurdwaras",
-  "rich": true,
-  "summary": "Guru Hargobind (Gurmukhi: ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ, pronunciation: [gʊɾuː ɦəɾᵊgoːbɪn̯d̯ᵊ]l 19 June 1595 – 28 February 1644) was the sixth of ten Gurus of the Sikh religion. He became Guru at the age of eleven, after the execution of his father, Guru Arjan, by the Mughal emperor Jahangir.",
-  "history": [
-   {
-    "heading": "Early life",
-    "text": "Guru Hargobind was born in Gurū kī Waḍālī, on 19th June of 1595, in a Sodhi Khatri family in a village 7 kilometres (4.3 mi) west of Amritsar, the only son of Guru Arjan, the fifth Sikh Guru. However, Pashaura Singh suggests that he was actually born 19 June 1590. He spent the first sixteen years of his life at Ramdaspur (Amritsar) in the presence of his father. According to Sikh hagiographies, Guru Hargobind survived two poisoning attempts by his uncle Prithi Chand and his wife, Karmo, as well as another attempt on his life, when a cobra was thrown at him by Prithi Chand."
-   },
-   {
-    "heading": "Guruship",
-    "text": "On 25 May 1606, Guru Arjan, five days before his own death, selected his son Hargobind as his successor and instructed his son to start a military tradition to protect the Sikh people and always keep himself surrounded by armed Sikhs for protection. Shortly afterwards, Arjan was arrested, tortured and killed by order of the Mughal Emperor Jahangir on 30 May 1606. Guru Hargobind's succession ceremony took place on 24 June 1606. He put on two swords: one indicated his spiritual authority (pīrī) and the other, his temporal authority (mīrī). He followed his martyred father's advice and always kept himself surrounded by armed Sikhs for protection."
-   },
-   {
-    "heading": "Marriages",
-    "text": "Guru Hargobind had multiple wives, who are as follows: Mata Damodari (1597 – 13 July 1631), married on 15 February 1605, who birthed Baba Gurditta (b. 1613) and Bibi Viro (b. 1615) Mata Marvahi/Mahadevi (died 1645), married on 7 July 1615, who birthed Suraj Mal (b. 1617) Mata Nanaki (d. 1678), married in April 1613, who birthed Ani Rai (b. 1618), Atal Rai (b. 1619), and Guru Tegh Bahadur (b. 1621)"
-   },
-   {
-    "heading": "Death",
-    "text": "He nominated his grandson, Guru Har Rai, to succeed him. He died in 1644 at Kiratpur Sahib, a town on the banks of the River Sutlej, and was cremated on the banks of the river, where now stands Gurdwara Patalpuri Sahib."
-   },
-   {
-    "heading": "Sectarian views",
-    "text": "Guru Hargobind's reforms also had an impact on the Minas, a sect that rose to become a major opponent of the mainstream lineage of Sikh gurus. Prior to Guru Hargobind's reign, the Mina literature emulated the writings and appearances of the previous five gurus in-style, whilst portraying themselves as spiritually superior. However, Guru Hargobind conducted himself very differently from the previous gurus, thus the Minas were not able to emulate his ethos, and therefore relegated to keep mirroring the environment of the pre-Guru Hargobind Sikh court."
-   }
-  ],
+  "rich": false,
+  "summary": "",
+  "history": [],
   "coords": null,
-  "images": [
-   {
-    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/01.jpg",
-    "w": 1600,
-    "h": 2105,
-    "alt": "Ancient painting of sixth Sikh guru Guru Hargobind Sahib ji from Bhai Rupa's family collection, likely 17th…",
-    "author": "Historiansimar",
-    "license": "CC BY-SA 4.0",
-    "page": "https://commons.wikimedia.org/wiki/File:Ancient_Painting_of_Guru_Hargobind_Sahib_ji.jpg"
-   },
-   {
-    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/03.jpg",
-    "w": 1600,
-    "h": 2400,
-    "alt": "A contemporary painting of the sixth Sikh guru, Guru Hargobind.",
-    "author": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Contemporary_painting_of_the_sixth_Sikh_guru,_Guru_Hargobind._Provincial_Mughal_school,_Deccan,_mid-17th_century.jpg"
-   },
-   {
-    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/04.jpg",
-    "w": 1440,
-    "h": 1800,
-    "alt": "Fresco artwork of Guru Hargobind",
-    "author": "Unknown authorUnknown author",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Fresco_artwork_of_Guru_Hargobind.jpg"
-   },
-   {
-    "src": "/places/gurdwara-chhevin-patshahi-sri-guru-hargobind-sahib/06.jpg",
-    "w": 884,
-    "h": 960,
-    "alt": "Painting of Guru Arjan (middle and seated) with a young Hargobind (left).",
-    "author": "possibly D.A. Ahuja of Rangoon (Burma)",
-    "license": "Public domain",
-    "page": "https://commons.wikimedia.org/wiki/File:Guru_Arjan_with_a_young_Hargobind.jpg"
-   }
-  ],
-  "wiki": "https://en.wikipedia.org/wiki/Guru_Hargobind"
+  "images": []
  },
  {
   "slug": "gurdwara-pehli-patshahi",
@@ -756,11 +638,30 @@
   "province": "Punjab",
   "area": "Lahore",
   "type": "Historical sites",
-  "rich": false,
-  "summary": "",
-  "history": [],
-  "coords": null,
-  "images": []
+  "rich": true,
+  "summary": "Gurdwara Lal Khoohi (The Bloody Well), also known as Gurdwara Lal Khoo Patshahi Panjvin, alternatively Gurdwara Lal Khooh or Lal Khoo, literally Gurdwara Well of Blood was a historical Gurdwara located near Mochi Gate in Lahore, Pakistan. The gurdwara is located at the coordinates 31°34'41.4\"N 74°19'20.1\"E.",
+  "history": [
+   {
+    "heading": "History",
+    "text": "It was built at the site where the fifth Sikh Guru, Guru Arjan Dev, was incarcerated during the reign of the Mughal Emperor, Jehangir. It is believed the guru was tortured here by Chandu Shah and his servants in 1606. Sikhs believe the guru was tortured by being made to sit on a hot cooking plate, being boiled in hot water, and having hot sand poured on him. The gurdwara was constructed over a well that the guru was believed to have been bathed in. The haveli of Chandu Shah is located nearby on the same street. Before partition in 1947, the gurdwara had a shop and 1.25 aces of land surrounding it in its possession, along with 3 acres of land in Khokhar village in Lahore tehsil."
+   }
+  ],
+  "coords": {
+   "lat": 31.577316,
+   "lng": 74.321424
+  },
+  "images": [
+   {
+    "src": "/places/gurdwara-lal-khooh/01.jpg",
+    "w": 720,
+    "h": 1600,
+    "alt": "This place is knwon as Lal Khoohi in sikh history - Place Where Guru Arjan dev ji was tortured",
+    "author": "Historiansimar",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Lal_Khoohi_-_Place_Where_Guru_Arjan_dev_ji_was_tortured.jpg"
+   }
+  ],
+  "wiki": "https://en.wikipedia.org/wiki/Gurdwara_Lal_Khoohi"
  },
  {
   "slug": "gurdwara-diwan-khana",

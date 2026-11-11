@@ -10,7 +10,7 @@ import { SITE } from '@/lib/site'
 
 export const metadata: Metadata = {
   title: { absolute: `${SITE.name} | Sikh holy places and heritage in Pakistan` },
-  description: `Discover ${STATS.places} Sikh holy places, gurdwaras and historical sites across Pakistan, with their history and location. Message Odyssey Travel on WhatsApp or email to plan your visit.`,
+  description: `Discover ${STATS.places} Sikh holy places, gurdwaras and historical sites across Pakistan, with history and location. Message us on WhatsApp or email.`,
   alternates: { canonical: '/' },
 }
 
@@ -83,14 +83,18 @@ export default function Home() {
         </div>
       </section>
 
-      <Faq items={FAQ} />
+      <Faq items={FAQ} title="Frequently asked questions" />
 
       <section className="cta rel" id="contact">
-        <div className="ctac float"><Ph src="/places/gurdwara-dera-sahib/05.jpg" alt="" cls="rcirc" sizes="180px" /></div>
+        <div className="ctac float"><Ph src="/places/gurdwara-dera-sahib/05.jpg" alt="Gurdwara Dera Sahib, Lahore" cls="rcirc" sizes="180px" /></div>
         <Split>Ready to plan your visit?</Split>
         <div className="row g12 wrapx rv"><WaBtn /><MailBtn kind="soft" /></div>
       </section>
 
+      <JsonLd data={{
+        '@context': 'https://schema.org', '@type': 'HowTo', name: 'How to plan a visit to a Sikh holy place in Pakistan',
+        step: STEPS.map((s, i) => ({ '@type': 'HowToStep', position: i + 1, name: s.t, text: s.d })),
+      }} />
       <JsonLd data={{
         '@context': 'https://schema.org', '@type': 'ItemList', name: 'Featured Sikh holy places in Pakistan',
         itemListElement: FEATURED.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}/places/${p.slug}`, name: p.name })),

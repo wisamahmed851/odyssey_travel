@@ -1,0 +1,37 @@
+{
+  "name": "Gurdwara Lal Khooh",
+  "slug": "gurdwara-lal-khooh",
+  "city": "Lahore",
+  "province": "Punjab",
+  "area": "Lahore city",
+  "country": "Pakistan",
+  "wikipedia_title": "Gurdwara Lal Khoohi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gurdwara_Lal_Khoohi",
+  "summary": "Gurdwara Lal Khoohi (The Bloody Well), also known as Gurdwara Lal Khoo Patshahi Panjvin, alternatively Gurdwara Lal Khooh or Lal Khoo, literally Gurdwara Well of Blood was a historical Gurdwara located near Mochi Gate in Lahore, Pakistan. The gurdwara is located at the coordinates 31°34'41.4\"N 74°19'20.1\"E.",
+  "history": [
+    {
+      "heading": "History",
+      "text": "It was built at the site where the fifth Sikh Guru, Guru Arjan Dev, was incarcerated during the reign of the Mughal Emperor, Jehangir. It is believed the guru was tortured here by Chandu Shah and his servants in 1606. Sikhs believe the guru was tortured by being made to sit on a hot cooking plate, being boiled in hot water, and having hot sand poured on him. The gurdwara was constructed over a well that the guru was believed to have been bathed in. The haveli of Chandu Shah is located nearby on the same street. Before partition in 1947, the gurdwara had a shop and 1.25 aces of land surrounding it in its possession, along with 3 acres of land in Khokhar village in Lahore tehsil.\n\n\n=== Conversion to an Islamic shrine ===\nIt has since been converted into a Muslim shrine, Haq Char Yaar, in reference to the first four caliphs in Islam. In 2007, the Shiromani Gurdwara Parbandhak Committee condemned this act by Pakistani Muslims."
+    }
+  ],
+  "coordinates": {
+    "lat": 31.577316,
+    "lng": 74.321424
+  },
+  "images": [
+    {
+      "title": "File:Lal Khoohi - Place Where Guru Arjan dev ji was tortured.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lal_Khoohi_-_Place_Where_Guru_Arjan_dev_ji_was_tortured.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lal_Khoohi_-_Place_Where_Guru_Arjan_dev_ji_was_tortured.jpg",
+      "width": 720,
+      "height": 1600,
+      "license": "CC BY-SA 4.0",
+      "author": "Historiansimar",
+      "caption": "This place is knwon as Lal Khoohi in sikh history - Place Where Guru Arjan dev ji was tortured",
+      "file": "images/gurdwara-lal-khooh/01.jpg"
+    }
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Gurdwara_Lal_Khoohi"
+  ]
+}

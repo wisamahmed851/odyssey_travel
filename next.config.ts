@@ -9,6 +9,7 @@ const config: NextConfig = {
   async headers() {
     return [
       { source: '/places/:path*', headers: immutable },
+      { source: '/:file(og.jpg|llms.txt|icon.svg)', headers: [{ key: 'Cache-Control', value: 'public, max-age=86400, stale-while-revalidate=604800' }] },
       {
         source: '/:path*',
         headers: [

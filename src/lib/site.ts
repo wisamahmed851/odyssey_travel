@@ -3,7 +3,7 @@ export const SITE = {
   url: (process.env.NEXT_PUBLIC_SITE_URL || 'https://www.example.com').replace(/\/$/, ''),
   tagline: 'Sikh holy places, historical sites and community places in Pakistan',
   description:
-    'Explore gurdwaras, historical sites and Sikh community places across Pakistan with their history, location and details, then message us on WhatsApp or email to plan your visit.',
+    'Explore gurdwaras, historical sites and Sikh community places across Pakistan with their history and location, then message us on WhatsApp or email.',
   whatsapp: process.env.NEXT_PUBLIC_WHATSAPP || '',
   email: process.env.NEXT_PUBLIC_EMAIL || '',
 }

@@ -8,6 +8,7 @@ import { MailBtn, PinIcon, Ph, Split, WaBtn } from '@/components/ui'
 import { PLACES, cover, getPlace, initial, noIndex, type Place } from '@/lib/places'
 import { SITE } from '@/lib/site'
 
+const BUILT = new Date().toISOString().slice(0, 10)
 type Props = { params: Promise<{ slug: string }> }
 export const dynamicParams = false
 export const generateStaticParams = () => PLACES.map((p) => ({ slug: p.slug }))
@@ -18,13 +19,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const p = getPlace((await params).slug)
   if (!p) return {}
   const c = cover(p)
-  const desc = (p.summary ? p.summary.slice(0, 150).replace(/\s+\S*$/, '') + '…' : `${p.name} in ${p.city}, ${p.province}, Pakistan. Details and how to plan a visit with Odyssey Travel.`)
+  const tail = ' Details, location and how to plan a visit with Odyssey Travel.'
+  let desc = p.summary ? p.summary : `${p.name} in ${p.city}, ${p.province}, Pakistan.`
+  if (desc.length > 158) desc = desc.slice(0, 155).replace(/\s+\S*$/, '') + '…'
+  else if (desc.length < 120) desc = (desc + tail).slice(0, 160)
   return {
     title: `${p.name}, ${p.city}`,
     description: desc,
     alternates: { canonical: `/places/${p.slug}` },
     robots: noIndex(p) ? { index: false, follow: true } : undefined, // thin pages stay out of search until they have real details
-    openGraph: { type: 'article', title: `${p.name}, ${p.city}`, description: desc, url: `/places/${p.slug}`, images: c ? [{ url: c.src, width: c.w, height: c.h, alt: c.alt }] : undefined },
+    openGraph: { type: 'article', title: `${p.name}, ${p.city}`, description: desc, url: `/places/${p.slug}`, images: c ? [{ url: c.src, width: c.w, height: c.h, alt: c.alt }] : [{ url: '/og.jpg', width: 1200, height: 630, alt: 'Gurdwara Janam Asthan, Nankana Sahib' }] },
   }
 }
 
@@ -57,8 +61,9 @@ export default async function PlacePage({ params }: Props) {
         <div className="col g24">
           <p className="lead rv big">{blurb(p)}</p>
           {p.history.map((h, i) => (
-            <div key={h.heading} className={`chap rv${i === 0 ? ' open' : ''}`}><h2 className="h3s">{h.heading}</h2><p>{h.text}</p></div>
+            <div key={h.heading} className={`chap rv${i === 0 ? ' open' : ''}`}><h2 className="h3s">{p.name}: {h.heading}</h2><p>{h.text}</p></div>
           ))}
+          {p.wiki && <p className="credit rv">Source: <a href={p.wiki} target="_blank" rel="noopener noreferrer">Wikipedia</a> (text available under CC BY-SA). Photos credited in the gallery below.</p>}
           {!p.rich && <p className="rv">We are still collecting the history and photographs for this place. Message us and we will share what we know and help you plan the visit.</p>}
         </div>
         <aside className="dside rv">
@@ -112,6 +117,9 @@ export default async function PlacePage({ params }: Props) {
             ...(p.coords ? { geo: { '@type': 'GeoCoordinates', latitude: p.coords.lat, longitude: p.coords.lng } } : {}),
             ...(p.images.length ? { image: p.images.map((i) => `${SITE.url}${i.src}`) } : {}),
             ...(p.wiki ? { sameAs: [p.wiki] } : {}),
+            speakable: { '@type': 'SpeakableSpecification', cssSelector: ['h1', '.big'] },
+            isAccessibleForFree: true,
+            dateModified: BUILT,
           },
           { '@type': 'BreadcrumbList', itemListElement: [['Home', SITE.url], ['Places', `${SITE.url}/places`], [p.name, url]].map(([name, item], i) => ({ '@type': 'ListItem', position: i + 1, name, item })) },
         ],

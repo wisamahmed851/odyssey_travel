@@ -133,4 +133,3 @@ html.menu-open #menu{transform:none;visibility:visible}.mwrap{display:flex;flex-
 .search input{width:100%;background:transparent;border:0;font:inherit;color:inherit;outline:0}.search{padding:0 30px;display:flex;align-items:center}.search input{padding:17px 0}
 .empty{padding:60px 0;text-align:center}
 #ld{display:none}html.pre #ld{display:block}
-html.js .rv,html.js .rv-s{will-change:opacity,transform}

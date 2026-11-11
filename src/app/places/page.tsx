@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import { Suspense } from 'react'
 import JsonLd from '@/components/JsonLd'
 import PlacesBrowser from '@/components/PlacesBrowser'
+import PlacesGrid from '@/components/PlacesGrid'
 import { Split } from '@/components/ui'
 import { PLACES } from '@/lib/places'
 import { SITE } from '@/lib/site'
@@ -19,7 +20,7 @@ export default function Places() {
         <Split as="h1" className="xl2">All places</Split>
         <p className="lead rv" style={{ maxWidth: 640, paddingTop: 12 }}>Gurdwaras and heritage places across Punjab, Khyber Pakhtunkhwa and Sindh.</p>
       </section>
-      <Suspense fallback={null}><PlacesBrowser /></Suspense>
+      <Suspense fallback={<section className="sec wrap"><PlacesGrid list={PLACES} /></section>}><PlacesBrowser /></Suspense>
       <JsonLd data={{
         '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Sikh holy places in Pakistan', url: `${SITE.url}/places`,
         mainEntity: { '@type': 'ItemList', numberOfItems: PLACES.length, itemListElement: PLACES.map((p, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITE.url}/places/${p.slug}`, name: p.name })) },
